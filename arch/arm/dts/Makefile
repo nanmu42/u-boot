@@ -110,6 +110,7 @@ dtb-$(CONFIG_ROCKCHIP_RK3328) += \
 	rk3328-evb.dtb \
 	rk3328-nanopi-r2c.dtb \
 	rk3328-nanopi-r2s.dtb \
+	rk3328-nanopi-r2s-plus.dtb \
 	rk3328-orangepi-r1-plus.dtb \
 	rk3328-orangepi-r1-plus-lts.dtb \
 	rk3328-roc-cc.dtb \
